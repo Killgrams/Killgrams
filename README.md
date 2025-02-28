@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Boluwatife Adewusi and I'm a Criminal Justice and Computer Information System Major with Concentration in Cybercrime and Cybersecurity, from Alabama State University </h2>
 
 ###
 
