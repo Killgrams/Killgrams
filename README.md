@@ -1,4 +1,4 @@
-<h2 align="left"># 👨🏾‍💻 Boluwatife Adewusi  
+<h2 align="left"> 👨🏾‍💻 Boluwatife Adewusi  
 
 I’m a Criminal Justice and Computer Information Systems major with a concentration in **Cybercrime & Cybersecurity** at **Alabama State University**.  
 
