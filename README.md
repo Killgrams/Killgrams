@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is Boluwatife Adewusi and I'm a Criminal Justice and Computer Information System Major with Concentration in Cybercrime and Cybersecurity, from Alabama State University </h2>
+<h2 align="left"># 👨🏾‍💻 Boluwatife Adewusi  
+
+I’m a Criminal Justice and Computer Information Systems major with a concentration in **Cybercrime & Cybersecurity** at **Alabama State University**.  
+
+💡 I enjoy solving problems at the intersection of **law, justice, and technology** — from building secure systems to understanding how cyber threats impact society.  
+
+🔐 Interests:  
+- Cybersecurity & Digital Forensics  
+- Ethical Hacking & Threat Analysis  
+- Database Management & Information Systems  
+- Policy, Law & Technology  
+
+📌 Exploring projects that combine **programming, data, and security** with criminal justice perspectives.  
+ </h2>
 
 ###
 
