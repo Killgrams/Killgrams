@@ -2,7 +2,7 @@
 
 I’m a Criminal Justice and Computer Information Systems major with a concentration in **Cybercrime & Cybersecurity** at **Alabama State University**.  
 
-💡 I enjoy solving problems at the intersection of **law, justice, and technology** — from building secure systems to understanding how cyber threats impact society.  
+💡 I enjoy solving problems at the intersection of **law, justice, and technology** from building secure systems to understanding how cyber threats impact society.  
 
 🔐 Interests:  
 - Cybersecurity & Digital Forensics  
