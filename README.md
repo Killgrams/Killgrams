@@ -1,17 +1,14 @@
-<h2 align="left"> 👨🏾‍💻 Boluwatife Adewusi  
+## Boluwatife Samson Adewusi
 
-I’m a Criminal Justice and Computer Information Systems major with a concentration in **Cybercrime & Cybersecurity** at **Alabama State University**.  
+I am a B.S. Criminal Justice graduate (concentration in Cybercrime and Cybersecurity, minor in Computer Information Systems) from Alabama State University, Class of 2026. I enjoy solving problems at the intersection of law, justice, and technology, from building secure systems to understanding how cyber threats impact society.
 
-💡 I enjoy solving problems at the intersection of **law, justice, and technology** from building secure systems to understanding how cyber threats impact society.  
+Interests:
+- Cybersecurity and Digital Forensics
+- Ethical Hacking and Threat Analysis
+- Database Management and Information Systems
+- Policy, Law and Technology
 
-🔐 Interests:  
-- Cybersecurity & Digital Forensics  
-- Ethical Hacking & Threat Analysis  
-- Database Management & Information Systems  
-- Policy, Law & Technology  
-
-📌 Exploring projects that combine **programming, data, and security** with criminal justice perspectives.  
- </h2>
+Currently building Paramount Cybersecurity, helping small businesses defend against phishing.
 
 ###
 
